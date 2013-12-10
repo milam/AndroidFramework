@@ -7,7 +7,7 @@ import com.mdobbins.framework.Graphics.ImageFormat;
 
 
 public class LoadingScreen extends Screen {
-    public LoadingScreen(Game game) {
+    public LoadingScreen(Game game) { 
         super(game);
     }
 
