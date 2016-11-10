@@ -1,0 +1,3 @@
+//Updates to Android since this adaptibility framework was created that cause entries to be redundant:
+//1.
+//2.
